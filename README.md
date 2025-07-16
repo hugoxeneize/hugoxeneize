@@ -4,7 +4,7 @@
 **hugoxeneize/hugoxeneize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 🎧 Currently listening
-[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=TuUsuarioLastFM)](https://www.last.fm/user/TuUsuarioLastFM)
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hugoxeneize)](https://www.last.fm/user/hugoxeneize)
 
 
 Here are some ideas to get you started:
