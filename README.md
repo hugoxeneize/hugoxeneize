@@ -5,7 +5,7 @@
 
 
 ## 🎧 Currently listening
-[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hugoxeneize&width=600&bg_color=000000&show_user=header&loved=true&footer_style=normal_stats)](https://www.last.fm/user/hugoxeneize)
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hugoxeneize&width=1000&bg_color=000000&show_user=header&loved=true&footer_style=normal_stats)](https://www.last.fm/user/hugoxeneize)
 
 
 <picture>
